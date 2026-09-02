@@ -1,0 +1,9 @@
+data/*
+!data/splits/
+!data/splits/*.json
+*.tar.gz
+*.tar.gz.part
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
